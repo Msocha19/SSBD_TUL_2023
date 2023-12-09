@@ -7,7 +7,7 @@ Project for Lodz University of Technology Network Database Systems course.
 |[Łukasz Stępień](https://github.com/Lukasz0104)|
 |[Kamil Graczyk](https://github.com/St0n3k)|
 |[Piotr Tomczyk](https://github.com/tomczykp)|
-|[Mateusz Sochacki](https://github.com/236652)|
+|[Mateusz Sochacki](https://github.com/Msocha19)|
 |[Bartłomiej Czajkowski](https://github.com/AverageCoffeeEnjoyer)|
 ### 🛠 Technologies, languages and tools
 - Java (JDK-17)
